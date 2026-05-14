@@ -17,7 +17,7 @@ public:
 class Stack 
 {
 private:
-    Node* top;
+    Node* top;   
 public:
     Stack() 
     {
@@ -122,4 +122,4 @@ int main()
         cout << endl;
     }
     return 0;
-};
+};            
