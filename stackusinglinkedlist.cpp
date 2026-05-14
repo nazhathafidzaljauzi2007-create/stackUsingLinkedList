@@ -19,7 +19,7 @@ class Stack
 private:
     Node* top;   
 public:
-    Stack() 
+    Stack()        
     {
         top = NULL;
     }
